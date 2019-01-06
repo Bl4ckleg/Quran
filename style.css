@@ -13,6 +13,7 @@ body{
     background-color:#16a085;
     margin:0;
     padding:20px;
+    width:100%;
 }
 
 .sideHeader {
@@ -21,6 +22,7 @@ body{
     background-color:#1abc9c;
     margin:0;
     padding:20px;
+    width:100%;
 }
 
 div {
@@ -31,23 +33,11 @@ footer{
     background-color:#34495e;
     margin:0;
     padding:10px;
+    width:100%;
 }
 
 #footer{
     color:#ecf0f1;
     text-align:center;
     size:20px;
-}
-
-@media(max-width: 768px)
-    h1{
-    width:100%;
-}
-
-h2{
-    width:100%;
-}
-
-footer{
-    width:100%;
 }
